@@ -1,0 +1,60 @@
+<style type="text/css">
+
+.A {
+height: 300px;
+width: 305px;
+margin-left: 7%;
+float: center;
+border-color: black;
+border-width: 5px;
+border-style: solid;
+border-radius: 50%;
+}
+
+.C {
+height: 290px; 
+width: 70%; 
+position: static; 
+opacity: 0.6; 
+background-color: black; 
+float: center; 
+margin-left: 25%; 
+margin-top: 2%; 
+color: white; 
+font-family: Century Gothic; 
+font-size: 15px; 
+}
+
+.D
+{
+height: 550px; 
+width: 49%; 
+position: static; 
+opacity: 0.6; 
+background-color: black; 
+float: right; 
+margin-left: 0.5%; 
+margin-right: 0.5%;
+margin-top: 2%; 
+color: white; 
+font-family: Century Gothic; 
+font-size: 18px; 
+}
+
+.E
+{
+height: 550px; 
+width: 49%; 
+position: static; 
+opacity: 0.6; 
+background-color: black; 
+float: left; 
+margin-left: 0.5%; 
+margin-right: 0.5%;
+margin-top: 2%; 
+color: white; 
+font-family: Century Gothic; 
+font-size: 18px; 
+}
+
+</style>
